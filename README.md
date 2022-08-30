@@ -24,9 +24,11 @@ This project is licensed under the MIT License - see the [LICENSE](https://githu
 @article{alasmary2022shieldrnn,
 	author={Alasmary, Faris and Alraddadi, Sulaiman and Al-Ahmadi, Saad and Al-Muhtadi, Jalal},
 	journal={IEEE Access},
-	title={ShieldRNN: A Distributed Flow-based DDoS Detection Solution For IoT Using Sequence Majority Voting},
+	title={ShieldRNN: A Distributed Flow-Based DDoS Detection Solution for IoT Using Sequence Majority Voting},
 	year={2022},
 	volume={10},
+	number={},
+	pages={88263-88275},
 	doi={10.1109/ACCESS.2022.3200477}
 }
 ```
